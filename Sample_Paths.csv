@@ -1,0 +1,16 @@
+﻿id,from,to,time
+C1,A,B,1
+C1,B,C,2
+C1,C,D,3
+C2,A,B,1
+C2,B,D,2
+C2,D,E,3
+C3,A,B,1
+C3,B,E,2
+C3,E,F,3
+C4,A,C,1
+C4,C,D,2
+C4,D,E,3
+C5,A,C,1
+C5,C,E,2
+C5,E,F,3
